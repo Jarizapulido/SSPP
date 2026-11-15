@@ -16,3 +16,5 @@
 **Codigo en ejecucion**
 
 ![alt text](Imagenes/image-6.png)
+
+En este enlace esta el repositorio con el código: [Enlace repo](https://github.com/Jarizapulido/SSPP/tree/main/Practica6)
